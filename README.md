@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 
 ###
 
@@ -20,8 +20,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/enstrong/enstrong/output/snake.svg" alt="Snake animation" />
 
 ###
 
