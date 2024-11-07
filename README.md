@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left">I am a first year student at Astana IT College.</p>
+<p align="left">I am a second year student at Astana IT College.</p>
 
 ###
 
