@@ -1,9 +1,6 @@
 <h1 align="center">Hi there👋, I'm Aliakbar</h1>
 <h3 align="center">A second year student at Astana IT College</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
