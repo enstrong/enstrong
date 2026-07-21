@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Aliakbar Murat</h1>
-<h3 align="center">A third year student at Astana IT College</h3>
+<h3 align="center">B.Sc. AI Solutions at University of Applied Sciences Upper Austria | 2026-2029</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
