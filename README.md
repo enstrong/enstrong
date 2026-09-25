@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Aliakbar Murat</h1>
 
 <h3 align="center">
-AI Solutions Student at FH Upper Austria🇦🇹 (2026–2029)
+Admitted to AI Solutions BSc, FH Upper Austria🇦🇹 (2026–2029)
 <br>
 Machine Learning • Computer Vision • Full-Stack Development
 </h3>
